@@ -1,3 +1,4 @@
+#MAUREEN NYAGA SCT211-0052/2022
 print("Hello")
 #prompt user for input
 Year=input("Please enter the year: ")
