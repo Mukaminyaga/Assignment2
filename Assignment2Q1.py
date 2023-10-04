@@ -1,3 +1,4 @@
+#MAUREEN NYAGA SCT211-0052/2022
 #Find the current date
 import datetime
 currentDate=datetime.datetime.now()
