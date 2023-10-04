@@ -1,3 +1,4 @@
+# MAUREEN NYAGA SCT211-0052/2022
 print("Hello")
 #prompt user to enter the values
 BillAmount=input("Please enter the total bill amount: ")
